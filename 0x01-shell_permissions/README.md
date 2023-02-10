@@ -16,14 +16,14 @@ Functions of scripts:
 
 7-everybody -> Adds execution permission to the owner, the group owner and the other users, to the file hello.
 
-8-James_Bond -> Sets the permission to the file hello as follows:
-                * Owner: no permission at all
-                * Group: no permission at all
-                * Other users: all the permissions
+8-James_Bond -> Sets the permission to the file hello as follows:  
+                * Owner: no permission at all  
+                * Group: no permission at all  
+                * Other users: all the permissions  
 
-9-John_Doe -> Sets the mode of the file hello to this:
-                * The file hello will be in the working directory
-                * You are not allowed to use commas for this script
+9-John_Doe -> Sets the mode of the file hello to this:  
+                * The file hello will be in the working directory  
+                * You are not allowed to use commas for this script  
 
 10-mirror_permissions -> Sets the mode of the file hello the same as olleh’s mode.
 
